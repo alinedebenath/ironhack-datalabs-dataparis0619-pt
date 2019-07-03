@@ -29,6 +29,7 @@ ORDER BY TOTAL desc limit 3;
 
 --- challenge 4
 SELECT IFNULL(ta.au_id,0) as 'ID AUTHOR', a.au_lname as 'LAST NAME', a.au_fname as 'FIRST NAME', IFNULL(sum(s.qty), 0) as TOTAL
+
 FROM publications.authors a
 
 left JOIN publications.titleauthor ta on a.au_id=ta.au_id
