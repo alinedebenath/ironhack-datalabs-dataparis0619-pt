@@ -31,5 +31,3 @@ left JOIN publications.titles t on ta.title_id=t.title_id
 left join publications.sales s on t.title_id=s.title_id
 GROUP BY a.au_lname, a.au_fname, ta.au_id
 ORDER BY TOTAL desc;
- 
-
