@@ -1,0 +1,1 @@
+['Pythia', 'Apollo', 'Ovid', 'Metamorphoses', 'Dragon', 'Earth', 'Delphi', 'Oracle', 'Omphalos', 'Chthonic', 'Apollo', 'Zeus', 'Leto', 'Artemis', 'Apollo', 'Hera', 'Greeks', 'Omphalos', 'Oracle', 'Delphi', 'Helios', 'Delphyne', 'Typhon', 'Pythia', 'Omphalos', 'Pythonidae', 'Delphi', 'Pythia', 'Dodona']
